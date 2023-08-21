@@ -1,13 +1,5 @@
 var technologies = [
 	{
-		technology: "OMP",
-		level: "Expert",
-		description: "Professional experience with impelenting, demonstrating, and planning with a powerfuly supply chain planning tool. ",
-		logo: "omp",
-		primaryColor: "#9FD4CE",
-		competence: "95"
-	},
-	{
 		technology: "Excel",
 		level: "Expert",
 		description: "Real world experience with data manipulation and graphical visualization. ",
@@ -37,7 +29,7 @@ var technologies = [
 		description: "Code based statistical analysis, visualization, and modeling. ",
 		logo: "r",
 		primaryColor: "#808080",
-		competence: "50"
+		competence: "20"
 	},
 	{
 		technology: "Minitab",
@@ -101,7 +93,7 @@ var technologies = [
 		description: "High school coursework with basic Java programs. ",
 		logo: "java",
 		primaryColor: "#31B1D4",
-		competence: "50"
+		competence: "60"
 	},
 	{
 		technology: "Javascript",
@@ -109,7 +101,7 @@ var technologies = [
 		description: "Able to write part of this javascript website. ",
 		logo: "js",
 		primaryColor: "#EFDF5E",
-		competence: "50"
+		competence: "60"
 	},
 	{
 		technology: "Adobe Photoshop",
@@ -117,7 +109,7 @@ var technologies = [
 		description: "Strong personal experience with editing photos and advanced imagery. ",
 		logo: "ps",
 		primaryColor: "#061A5C",
-		competence: "80"
+		competence: "10"
 	},
 	{
 		technology: "Adobe Premiere Pro",
@@ -125,6 +117,6 @@ var technologies = [
 		description: "Strong personal experience with editing and producing videos. ",
 		logo: "pp",
 		primaryColor: "#590773",
-		competence: "80"
+		competence: "10"
 	}
 ];
