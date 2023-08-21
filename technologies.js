@@ -32,54 +32,6 @@ var technologies = [
 		competence: "20"
 	},
 	{
-		technology: "Minitab",
-		level: "Expert",
-		description: "GUI based statistical analysis, visualization, and modeling. ",
-		logo: "minitab",
-		primaryColor: "#64CB46",
-		competence: "85"
-	},
-	{
-		technology: "Simio",
-		level: "Intermediate",
-		description: "Able to build small and large scale simulations for complex systems. ",
-		logo: "simio",
-		primaryColor: "#4FDFC9",
-		competence: "55"
-	},
-	{
-		technology: "FICO Xpress Solver",
-		level: "Intermediate",
-		description: "Efficient programs for solving integer programs and optimizing processes. ",
-		logo: "fico",
-		primaryColor: "#3B2A35",
-		competence: "50"
-	},
-	{
-		technology: "Matlab and Simulink",
-		level: "Basic",
-		description: "Light programming for mathematical procedures and simulation. ",
-		logo: "matlab",
-		primaryColor: "#2197E9",
-		competence: "50"
-	},
-	{
-		technology: "C",
-		level: "Intermediate",
-		description: "High level, efficient code with memory allocation and advanced programming. ",
-		logo: "c",
-		primaryColor: "#31B1D4",
-		competence: "50"
-	},
-	{
-		technology: "ExpertFit",
-		level: "Intermediate",
-		description: "Able to fit most distribution models. ",
-		logo: "expertfit",
-		primaryColor: "#195D8D",
-		competence: "70"
-	},
-	{
 		technology: "HTML / CSS",
 		level: "Intermediate",
 		description: "Up to date with the latest in HTML5 and CSS3 standards. ",
